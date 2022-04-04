@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deltath" alt="deltath" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@delta_th_" target="blank"><img src="https://img.shields.io/twitter/follow/@delta_th_?logo=twitter&style=for-the-badge" alt="@delta_th_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/delta_th_" target="blank"><img src="https://img.shields.io/twitter/follow/delta_th_?logo=twitter&style=for-the-badge" alt="delta_th_" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap and JS**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@delta_th_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@delta_th_" height="30" width="40" /></a>
+<a href="https://twitter.com/delta_th_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delta_th_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhay-n-70778a126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-n-70778a126" height="30" width="40" /></a>
 <a href="https://fb.com/athabhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athabhay" height="30" width="40" /></a>
 <a href="https://instagram.com/ath_abhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ath_abhay" height="30" width="40" /></a>
