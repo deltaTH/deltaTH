@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/delta_th_" target="blank"><img src="https://img.shields.io/twitter/follow/delta_th_?logo=twitter&style=for-the-badge" alt="delta_th_" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap and JS**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **tech stuff**
 
