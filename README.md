@@ -1,3 +1,6 @@
+[![An image of @deltath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deltath)](https://holopin.io/@deltath)
+
+
 <h1 align="center">Hi 👋, I'm Abhay Nandan Singh</h1>
 <h3 align="center">I'm a Tech Enthusiast</h3>
 
