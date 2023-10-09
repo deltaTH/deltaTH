@@ -151,7 +151,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deltaTH/deltaTH/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/deltaTH/deltaTH/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
