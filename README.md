@@ -159,8 +159,3 @@
   <img src="https://profile-counter.glitch.me/deltaTH/count.svg?"  />
 </div>
 
-###
-
-![gitartwork](gitartwork.svg)
-
-###
