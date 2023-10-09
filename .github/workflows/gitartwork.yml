@@ -15,4 +15,5 @@
             user_name: deltaTH
             # Text on contribution graph 
             text: deltaTH
-       - uses: deltaTH/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
+
