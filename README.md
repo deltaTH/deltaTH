@@ -1,6 +1,6 @@
 [![An image of @deltath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deltath)](https://holopin.io/@deltath)
 
-<h2 align="left">Hi 👋! My name is Abhay Singh and I'm a Tech Enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Abhay Singh and I'm a Tech Enthusiast</h2> 
 
 ###
 
