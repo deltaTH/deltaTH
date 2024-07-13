@@ -148,12 +148,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-    <img src="https://github.com/deltaTH/deltaTH/blob/master/github-user-contribution.svg"></img>
-    </div>
-
 ###
 
 <div align="center">
