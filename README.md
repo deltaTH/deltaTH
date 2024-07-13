@@ -1,11 +1,11 @@
 [![An image of @deltath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deltath)](https://holopin.io/@deltath)
 
 <h2 align="left">Hi 👋! My name is Abhay Singh and I'm a Tech Enthusiast</h2> 
-
+<div align="center">
 <a href="https://deltath.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio button"  />
 </a>
-
+</div>
 ###
 
 <div align="center">
