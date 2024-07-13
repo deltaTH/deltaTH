@@ -2,6 +2,10 @@
 
 <h2 align="left">Hi 👋! My name is Abhay Singh and I'm a Tech Enthusiast</h2> 
 
+<a href="https://deltath.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio button"  />
+</a>
+
 ###
 
 <div align="center">
