@@ -9,6 +9,13 @@
 
 ###
 
+<h1 align="left"><u>Github stats</u></h1>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/deltaTH/deltaTH/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="deltaTH" />
+</p>
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=deltaTH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deltaTH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -17,13 +24,6 @@
 ###
 
 <img align="right" height="190" src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif"  />
-
-<h1 align="left"><u>Github stats</u></h1>
-
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/deltaTH/deltaTH/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="deltaTH" />
-</p>
-
 
 
 ###
